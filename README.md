@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bobbyshu0824@gmail.com)
 
 Welcome to my Github page! I am Yunmu Shu and I am currently pursing my Computer Science master degree at Northeastern University!  
-
+<img width="50%" align="right" style="margin-top: -20px; margin-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bobbyshu&&layout=compact&hide_border=true&langs_count=10" />
 
 #### 🌱 Things I am currently working on: 
 - Looking for my first development internship or CO-OP
@@ -37,5 +37,3 @@ Welcome to my Github page! I am Yunmu Shu and I am currently pursing my Computer
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
 </p>
-
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
