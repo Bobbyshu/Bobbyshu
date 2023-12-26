@@ -16,7 +16,7 @@ Welcome to my Github page! I am Yunmu Shu and I am currently pursing my Computer
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
-- Giving parents a call more often each week
+- Calling parents three times a week
 - Doing fitness three days a week
 #### :computer: Programming languages and tools: 
 <p>
