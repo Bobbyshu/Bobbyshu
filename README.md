@@ -10,7 +10,7 @@ Welcome to my Github page! I am Yunmu Shu and I am currently pursing my Computer
 
 #### 🌱 Things I am currently working on: 
 - Looking for my first development internship or CO-OP
-- Pursing my Computer Science Master degree 
+- Pursing my Computer Science Master degree in NEU
 - Learning online courses about Distributed System and Operating System
 - Practicing algorithms on leetcode website(https://leetcode.cn/u/bobbyshu/) 🚀
 
