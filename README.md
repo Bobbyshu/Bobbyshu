@@ -9,8 +9,8 @@ Welcome to my Github page! I am Yunmu Shu and I am currently pursing my Computer
 <img width="50%" align="right" style="margin-top: -20px; margin-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bobbyshu&&layout=compact&hide_border=true&langs_count=10" />
 
 #### 🌱 Things I am currently working on: 
-- Looking for my first development internship or CO-OP
-- Pursing my Computer Science Master degree in NEU
+- Looking for next internship or CO-OP
+- Pursing Computer Science Master degree in NEU
 - Learning online courses about Distributed System and Operating System
 - Practicing algorithms on leetcode website(https://leetcode.cn/u/bobbyshu/) 🚀
 
