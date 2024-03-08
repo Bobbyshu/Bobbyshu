@@ -16,8 +16,8 @@ Welcome to my Github page! I am Yunmu Shu and I am currently pursing my Computer
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
-- Calling parents three times a week
-- Doing fitness three times a week
+- Calling parents three times per week
+- Doing fitness three times per week
 #### :computer: Programming languages and tools: 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Bobbyshu&show_icons=true&hide_border=true" />
