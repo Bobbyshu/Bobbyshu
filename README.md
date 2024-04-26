@@ -11,7 +11,7 @@ Welcome to my Github page! I'm Yunmu Shu and currently pursing my Computer Scien
 #### 🌱 Things I am currently working on: 
 - Looking for next internship or CO-OP
 - Pursing Computer Science Master degree in NEU
-- Learning online courses about Distributed System and Operating System
+- Learning online courses about Distributed System, Database and Computer Network
 - Practicing algorithms on leetcode website(https://leetcode.cn/u/bobbyshu/) 🚀
 
 #### :muscle: Things I am challenging myself with:
