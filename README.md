@@ -15,9 +15,9 @@ Welcome to my Github page! I'm Yunmu Shu and currently pursing my Computer Scien
 - Practicing algorithms on leetcode website(https://leetcode.cn/u/bobbyshu/) 🚀
 
 #### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Calling parents three times per week
-- Doing fitness three times per week
+- Getting up earlier
+- Keeping in touch with parents once a week
+- Exercising three times a week
 #### :computer: Programming languages and tools: 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Bobbyshu&show_icons=true&hide_border=true" />
