@@ -9,6 +9,7 @@ Welcome to my Github page! I'm Yunmu Shu and currently pursing my Computer Scien
 <img width="50%" align="right" style="margin-top: -20px; margin-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bobbyshu&&layout=compact&hide_border=true&langs_count=10" />
 
 #### 🌱 Things I am currently working on: 
+- Seeking 2025 SDE Full Time Role
 - Looking for next internship or CO-OP
 - Pursing Computer Science Master degree in NEU
 - Learning online courses about Distributed System, Database and Computer Network
