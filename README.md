@@ -17,7 +17,7 @@ Welcome to my Github page! I'm Yunmu Shu and currently pursing my Computer Scien
 
 #### :muscle: Things I am challenging myself with:
 - Getting up earlier
-- Keeping in touch with parents once a week
+- Video call parents twice a week
 - Exercising three times a week
 #### :computer: Programming languages and tools: 
 <p>
