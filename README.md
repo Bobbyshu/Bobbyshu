@@ -12,7 +12,7 @@ Welcome to my Github page! I'm Yunmu Shu and currently pursing my Computer Scien
 - Seeking 2025 SDE Full Time Role
 - Looking for next internship/CO-OP
 - Pursing Computer Science Master degree in NEU
-- Learning online courses about Distributed System, Database and Computer Network
+- Learning online courses about Distributed System, Database, OS and Computer Network
 - Practicing algorithms on leetcode
 
 #### :muscle: Things I am challenging myself with:
