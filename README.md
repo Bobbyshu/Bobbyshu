@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bobbyshu/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bobbyshu0824@gmail.com)
 
-Welcome to my Github page! I'm Yunmu Shu and currently pursing my Computer Science master degree at Northeastern University.
+Welcome to my Github page! I'm Yunmu Shu and currently pursing my Computer Science master degree at Northeastern University. 
 <img width="50%" align="right" style="margin-top: -20px; margin-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bobbyshu&&layout=compact&hide_border=true&langs_count=10" />
 
 #### 🌱 Things I am currently working on: 
